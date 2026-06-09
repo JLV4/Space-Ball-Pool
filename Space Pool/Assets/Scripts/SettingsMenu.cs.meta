@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eba458a0322ab2d4ca263f8c27dea705
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - gameSettings: {fileID: 11400000, guid: 4d0aa6f083763684b87798d3d87866b2, type: 2}
+  - powerSlider: {instanceID: 0}
+  - wallBouncinessSlider: {instanceID: 0}
+  - randomizeButton: {instanceID: 0}
+  - defaultButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!181963792 &2655988077585873504
+Preset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LoadedScoringZonePreset
+  m_TargetType:
+    m_NativeTypeID: 114
+    m_ManagedTypePPtr: {fileID: 11500000, guid: 06f6883801b5de9408bd57e1964b2497, type: 3}
+    m_ManagedTypeFallback: 
+  m_Properties:
+  - target: {fileID: 0}
+    propertyPath: m_Enabled
+    value: 1
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorHideFlags
+    value: 0
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: m_EditorClassIdentifier
+    value: Assembly-CSharp::ScoringZone
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: gameSettings
+    value: 
+    objectReference: {fileID: 11400000, guid: 4d0aa6f083763684b87798d3d87866b2, type: 2}
+  - target: {fileID: 0}
+    propertyPath: scoreParticleEffect
+    value: 
+    objectReference: {fileID: 1128644252539702879, guid: 596dac5edef6a954e9909e488b57ff23, type: 3}
+  - target: {fileID: 0}
+    propertyPath: stripes
+    value: 
+    objectReference: {fileID: 2100000, guid: e518ac285fb1c9443b2e173a16630569, type: 2}
+  - target: {fileID: 0}
+    propertyPath: solids
+    value: 
+    objectReference: {fileID: 2100000, guid: b03ca7d34a97caa4d8f7360465399d1c, type: 2}
+  - target: {fileID: 0}
+    propertyPath: black
+    value: 
+    objectReference: {fileID: 2100000, guid: 67a9df81e2eb34d7c9ca1da526572fd8, type: 2}
+  - target: {fileID: 0}
+    propertyPath: p1Text
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: p2Text
+    value: 
+    objectReference: {fileID: 0}
+  - target: {fileID: 0}
+    propertyPath: alertText
+    value: 
+    objectReference: {fileID: 0}
+  m_ExcludedProperties: []
+  m_CoupledType:
+    m_NativeTypeID: 0
+    m_ManagedTypePPtr: {fileID: 0}
+    m_ManagedTypeFallback: 
+  m_CoupledProperties: []

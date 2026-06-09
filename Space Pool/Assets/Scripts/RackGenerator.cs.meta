@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4fc01eb7ec250784fbf7968033258324
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballPrefab: {fileID: 5867671407862761488, guid: 6eea20d48fdac004ca730a381b2aad59, type: 3}
+  - stripesMaterial: {fileID: 2100000, guid: e518ac285fb1c9443b2e173a16630569, type: 2}
+  - solidsMaterial: {fileID: 2100000, guid: b03ca7d34a97caa4d8f7360465399d1c, type: 2}
+  - blackMaterial: {fileID: 2100000, guid: 67a9df81e2eb34d7c9ca1da526572fd8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
